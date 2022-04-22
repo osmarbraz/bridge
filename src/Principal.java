@@ -24,5 +24,4 @@ public class Principal {
         advancedRemote.mute();
         device.printStatus();
     }
-
 }
