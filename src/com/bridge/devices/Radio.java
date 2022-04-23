@@ -1,4 +1,4 @@
-package com.bridge;
+package com.bridge.devices;
 
 public class Radio implements Device {
 

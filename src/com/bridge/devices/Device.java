@@ -1,4 +1,4 @@
-package com.bridge;
+package com.bridge.devices;
 
 /**
  * Interface comum para todos os dispositivos

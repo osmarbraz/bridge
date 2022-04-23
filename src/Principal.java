@@ -1,9 +1,9 @@
 
-import com.bridge.AdvancedRemote;
-import com.bridge.BasicRemote;
-import com.bridge.Device;
-import com.bridge.Radio;
-import com.bridge.Tv;
+import com.bridge.remotes.AdvancedRemote;
+import com.bridge.remotes.BasicRemote;
+import com.bridge.devices.Device;
+import com.bridge.devices.Radio;
+import com.bridge.devices.Tv;
 
 public class Principal {
 

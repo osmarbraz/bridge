@@ -1,4 +1,4 @@
-package com.bridge;
+package com.bridge.remotes;
 
 /**
  * Interface comum para todos os controles remotos

@@ -1,4 +1,4 @@
-package com.bridge;
+package com.bridge.devices;
 
 public class Tv implements Device {
 

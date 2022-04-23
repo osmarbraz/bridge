@@ -1,4 +1,6 @@
-package com.bridge;
+package com.bridge.remotes;
+
+import com.bridge.devices.Device;
 
 /*
  * Controle remoto básico.
